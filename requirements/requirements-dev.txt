@@ -1,0 +1,7 @@
+pytest==6.2.2
+coverage==5.4
+yapf==0.30.0 # format 工具
+flake8==3.8.4 # lint 工具
+isort==5.7.0 # format 工具 import
+python-dotenv==0.17.0
+autoflake==1.4  # format Unused variables
